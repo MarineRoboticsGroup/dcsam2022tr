@@ -1,2 +1,5 @@
-# dcsam2022tr
-DC-SAM 2022 Tech Report
+# Discrete-Continuous Smoothing and Mapping
+
+Technical report for our paper: K. J. Doherty, Z. Lu, K. Singh, J. J. Leonard, "Discrete-Continuous Smoothing and Mapping". 2022.
+
+
